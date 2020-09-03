@@ -1,0 +1,12 @@
+.display_audio{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.list{
+    position: absolute;
+    top: 220px;
+    left: auto;
+}
